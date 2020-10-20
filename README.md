@@ -1,3 +1,3 @@
 # fakecmd
 
-Das tool ist nicht echt und löscht auch nicht ;-)
+Das tool ist nicht echt und löscht auch nichts ;-)
