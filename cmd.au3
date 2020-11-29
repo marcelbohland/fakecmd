@@ -1,10 +1,10 @@
 #cs ----------------------------------------------------------------------------
 
-Ameisen abwehr: 0.1.0(BETA)
- Author:      xd.cellsoft.xd
+Fakecmd: 0.1.0(BETA)
+ Author:      Marcel Bohland
 
  Script Function:
-Its a Programm to open ameisenabwehr
+Fakecmd
 
 #ce ----------------------------------------------------------------------------
 
@@ -66,108 +66,3 @@ While 1
 
 	 EndSwitch
 WEnd
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
